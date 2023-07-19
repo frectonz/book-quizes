@@ -1,0 +1,16 @@
+[
+  {
+    "question": "O'Brien invited Winston to his house to get",
+    "options": [
+      {
+        "text": "the 10th edition of the Newspeak Dictionary",
+        "isAnswer": true
+      },
+      { "text": "A pot of Jam", "isAnswer": false },
+      {
+        "text": "the 11th edition of the Newspeak Dictionary",
+        "isAnswer": false
+      }
+    ]
+  }
+]

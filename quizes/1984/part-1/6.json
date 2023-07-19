@@ -1,0 +1,33 @@
+[
+  {
+    "question": "Artificial Insimination (ARTSEM) is illegal in Oceania.",
+    "options": [
+      { "text": "True", "isAnswer": false },
+      { "text": "False", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What was Winston's wife's name?",
+    "options": [
+      { "text": "Jen", "isAnswer": false },
+      { "text": "Katharine", "isAnswer": true },
+      { "text": "He was not married", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "All marriages between Party members had to be approved by ________.",
+    "options": [
+      { "text": "a committee", "isAnswer": true },
+      { "text": "big brother", "isAnswer": false },
+      { "text": "the supreme church", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What did Winston's wife refer to as \"our duty to the part\"?",
+    "options": [
+      { "text": "Reporting Traitors", "isAnswer": false },
+      { "text": "Sex", "isAnswer": true },
+      { "text": "Raisng children", "isAnswer": false }
+    ]
+  }
+]

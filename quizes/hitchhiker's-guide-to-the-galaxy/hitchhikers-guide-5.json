@@ -1,0 +1,53 @@
+[
+  {
+    "question": "Who is Zaphod Beeblebrox?",
+    "options": [
+      { "text": "The Galactic Emperor", "isAnswer": false },
+      { "text": "The Galactic President", "isAnswer": true },
+      { "text": "The Galactic General", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Zaphord is Ford's ____.",
+    "options": [
+      { "text": "Cousin", "isAnswer": false },
+      { "text": "Step-Cousin", "isAnswer": false },
+      { "text": "Semi-Cousin", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Zaphord is also known as ____.",
+    "options": [
+      { "text": "The Big Z or Phil", "isAnswer": true },
+      { "text": "The Big Z or John", "isAnswer": false },
+      { "text": "The Big Z or Mark", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Who was voted the Worst Dressed Sentient Being in the Known Universe seven times?",
+    "options": [
+      { "text": "Prostetnic Vogon Jeltz", "isAnswer": false },
+      { "text": "Ford Prefect", "isAnswer": false },
+      { "text": "Zaphod Beeblebrox", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Who Knows Who?",
+    "options": [
+      {
+        "text": "Trillian knows Ford, Ford knows both Arthur and Zaphod",
+        "isAnswer": false
+      },
+      { "text": "Arthur knows Trillian, Ford and Zaphod", "isAnswer": true },
+      { "text": "Ford knows Arthur and Trillian", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the new GPP feature?",
+    "options": [
+      { "text": "Genuine People Personality for Robots", "isAnswer": true },
+      { "text": "Genuine People Personality for Cats", "isAnswer": false },
+      { "text": "Genuine People Personality for Fish", "isAnswer": false }
+    ]
+  }
+]

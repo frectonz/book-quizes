@@ -1,0 +1,41 @@
+[
+  {
+    "question": "What are Memory Holes?",
+    "options": [
+      {
+        "text": "opening in a wall that led to a garbage can",
+        "isAnswer": false
+      },
+      {
+        "text": "opening in a wall that led to an incinerator",
+        "isAnswer": true
+      },
+      {
+        "text": "opening in a wall that led to an authorizer's office",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What is WInston's Job at the Records Department?",
+    "options": [
+      { "text": "Valiating The Times", "isAnswer": false },
+      { "text": "Rectifying The Times", "isAnswer": true },
+      { "text": "Destroying The Times", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The teams of actors of the teleprogrammers section were chosedn for their ability to imitate voices.",
+    "options": [
+      { "text": "True", "isAnswer": true },
+      { "text": "False", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Winston's greatest pleasure in life was his work.",
+    "options": [
+      { "text": "True", "isAnswer": true },
+      { "text": "False", "isAnswer": false }
+    ]
+  }
+]

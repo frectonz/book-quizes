@@ -1,0 +1,33 @@
+[
+  {
+    "question": "Lotteries are illegal in Oceania.",
+    "options": [
+      { "text": "True", "isAnswer": false },
+      { "text": "False", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Who did Winston talk to at the pub?",
+    "options": [
+      { "text": "The barman", "isAnswer": false },
+      { "text": "A young prole", "isAnswer": false },
+      { "text": "An old man", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Who is Mr. Charrington?",
+    "options": [
+      { "text": "The shopkeeper", "isAnswer": true },
+      { "text": "The person Winston talked to at the pub", "isAnswer": false },
+      { "text": "Winston's neighbour", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What did Winston buy?",
+    "options": [
+      { "text": "A candle", "isAnswer": true },
+      { "text": "A coral paperweight", "isAnswer": false },
+      { "text": "A history book", "isAnswer": false }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "question": "What were the women fighting over?",
+    "options": [
+      { "text": "Hair Clips", "isAnswer": false },
+      { "text": "Wedding Dresses", "isAnswer": false },
+      { "text": "Saucepans", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "The party heavily inforced its laws on the proles.",
+    "options": [
+      { "text": "True", "isAnswer": false },
+      { "text": "False", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What did winston do to now about the time before the revolution?",
+    "options": [
+      { "text": "Read an encycolopedia", "isAnswer": false },
+      { "text": "Read a children's history book", "isAnswer": true },
+      { "text": "Watch a documentary movie", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Which one was a famous caricaturist?",
+    "options": [
+      { "text": "Rutherford", "isAnswer": true },
+      { "text": "Jones", "isAnswer": false },
+      { "text": "Aaronson", "isAnswer": false }
+    ]
+  }
+]

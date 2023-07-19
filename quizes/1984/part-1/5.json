@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Where does Syme work?",
+    "options": [
+      { "text": "Records Department", "isAnswer": false },
+      { "text": "Research Department", "isAnswer": true },
+      { "text": "Ministry of Love", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The whole aim of Newspeak is to",
+    "options": [
+      { "text": "make an efficient form of language", "isAnswer": false },
+      { "text": "narrow the range of thought.", "isAnswer": true },
+      { "text": "make a more inclusive form of language.", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The 11th edition of the Newspeak dictonary contains ____ words than the 10th edition.",
+    "options": [
+      { "text": "less", "isAnswer": true },
+      { "text": "more", "isAnswer": false },
+      { "text": "equal number of", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Why did the little girl decide to follow and later report the strange man?",
+    "options": [
+      { "text": "He was holding an unauthorized book.", "isAnswer": false },
+      { "text": "She saw him stealing.", "isAnswer": false },
+      { "text": "He was wearing funny shoes.", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Wearing an imporoper expression on your face would institute",
+    "options": [
+      { "text": "FACECRIME", "isAnswer": true },
+      { "text": "THOUGHTCRIME", "isAnswer": false },
+      { "text": "BRAINCRIME", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is DUCKSPEAK?",
+    "options": [
+      { "text": "An Insult", "isAnswer": false },
+      { "text": "A Praise", "isAnswer": false },
+      { "text": "Both (depends on who you say it to)", "isAnswer": true }
+    ]
+  }
+]

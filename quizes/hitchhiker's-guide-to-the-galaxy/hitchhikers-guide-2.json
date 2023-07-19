@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What did the barman say when Ford Prefect told him that the world was about to end?",
+    "options": [
+      { "text": "\"Lucky escape for Arsenal if it did\"", "isAnswer": true },
+      { "text": "\"Lucky escape for Chelsea if it did\"", "isAnswer": false },
+      { "text": "\"Lucky escape for Liverpool if it did\"", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is a proper muscle relaxant?",
+    "options": [
+      { "text": "3 bottles of wine", "isAnswer": false },
+      { "text": "3 pints of bear", "isAnswer": true },
+      { "text": "3 cups of water", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is a strag?",
+    "options": [
+      { "text": "slang for a non-hitch-hiker", "isAnswer": true },
+      { "text": "slang for a rogue zebra ai", "isAnswer": false },
+      { "text": "slang for a rich cat", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "A Hooloovoo is a super-intelligent shade of the color ____ .",
+    "options": [
+      { "text": "blue", "isAnswer": true },
+      { "text": "red", "isAnswer": false },
+      { "text": "green", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "\"The three billion people weren't actually there, but they watched his every gesture through the eyes of a small robot ____ camera which hovered obsequiously in the air nearby.\"",
+    "options": [
+      { "text": "tri-D", "isAnswer": true },
+      { "text": "tri-E", "isAnswer": false },
+      { "text": "tri-F", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Who wears the orange sash?",
+    "options": [
+      { "text": "Ford Prefect", "isAnswer": false },
+      { "text": "The Galactic Emperor", "isAnswer": false },
+      { "text": "The President", "isAnswer": true }
+    ]
+  }
+]

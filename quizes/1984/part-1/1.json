@@ -1,0 +1,112 @@
+[
+  {
+    "question": "The man of the poster",
+    "options": [
+      { "text": "had a moustache.", "isAnswer": true },
+      { "text": "didn't have a moustache.", "isAnswer": false },
+      { "text": "it was a woman", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Who is the main the character we are following?",
+    "options": [
+      { "text": "George", "isAnswer": false },
+      { "text": "Winston", "isAnswer": true },
+      { "text": "Alice", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What did the poster say?",
+    "options": [
+      { "text": "BIG BROTHER IS EVERYWHERE", "isAnswer": false },
+      { "text": "BIG BROTHER IS HEARING YOU", "isAnswer": false },
+      { "text": "BIG BROTHER IS WATCHING YOU", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What is the uniform of the party?",
+    "options": [
+      { "text": "Green Overalls", "isAnswer": false },
+      { "text": "Blue Overall", "isAnswer": true },
+      { "text": "Yellow Overalls", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Where does the main character work?",
+    "options": [
+      { "text": "Ministry of Truth", "isAnswer": true },
+      { "text": "Ministry of Love", "isAnswer": false },
+      { "text": "Ministry of Plenty", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the language of Oceania?",
+    "options": [
+      { "text": "Newspeak", "isAnswer": true },
+      { "text": "Oldspeak", "isAnswer": false },
+      { "text": "OceaniaSpeak", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "How many ministries does the party have?",
+    "options": [
+      { "text": "3", "isAnswer": false },
+      { "text": "4", "isAnswer": true },
+      { "text": "10", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Which one is not a Ministry?",
+    "options": [
+      { "text": "Minitrue", "isAnswer": false },
+      { "text": "Minicom", "isAnswer": true },
+      { "text": "Minipax", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Which one is a part of the party slogan?",
+    "options": [
+      { "text": "LOVE IS HATE", "isAnswer": false },
+      { "text": "POWER IS WEAKNESS", "isAnswer": false },
+      { "text": "WAR IS PEACE", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Why did people goto ordinary shops?",
+    "options": [
+      { "text": "to buy alcohol", "isAnswer": false },
+      { "text": "to buy drugs", "isAnswer": false },
+      { "text": "to buy shoelaces and razor blades", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "People don't write. They use ____ to dictate their words for them.",
+    "options": [
+      { "text": "speak-write", "isAnswer": true },
+      { "text": "listen-write", "isAnswer": false },
+      { "text": "write-listen", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Emmanuel Goldstein is",
+    "options": [
+      { "text": "a supporter of Big Brother.", "isAnswer": false },
+      {
+        "text": "considerd the primal traitor of the big brother government.",
+        "isAnswer": true
+      },
+      {
+        "text": "the main enforcer of the big brother government.",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What happens to people accused of Thoughtcrime?",
+    "options": [
+      { "text": "KILLED", "isAnswer": false },
+      { "text": "BOILED", "isAnswer": false },
+      { "text": "VAPORIZED", "isAnswer": true }
+    ]
+  }
+]

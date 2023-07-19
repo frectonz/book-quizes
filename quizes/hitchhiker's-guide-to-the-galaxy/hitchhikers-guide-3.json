@@ -1,0 +1,53 @@
+[
+  {
+    "question": "\"On no account allow a Vogon to read ____ at you\"",
+    "options": [
+      { "text": "A book", "isAnswer": false },
+      { "text": "Poetry", "isAnswer": true },
+      { "text": "A Haiku", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "\"If you stick a Babel ___ into your ear you can instantly understand anything said to you in any form of language.\"",
+    "options": [
+      { "text": "Worm", "isAnswer": false },
+      { "text": "Leech", "isAnswer": false },
+      { "text": "Fish", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What helps you handle the effects of a Matter Transference Beam?",
+    "options": [
+      { "text": "Milk", "isAnswer": false },
+      { "text": "Peanuts", "isAnswer": true },
+      { "text": "Marmalade", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The Dentrassi are the ____.",
+    "options": [
+      { "text": "Cooks", "isAnswer": true },
+      { "text": "Janitors", "isAnswer": false },
+      { "text": "Guards", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What does the Hitchhiker's Guide to the Galaxy say about Earth?",
+    "options": [
+      { "text": "Pitiful", "isAnswer": false },
+      { "text": "Harmless", "isAnswer": true },
+      { "text": "Home of the Tardigrades", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "How are UFO sightings explained in the book?",
+    "options": [
+      { "text": "Teasers did it", "isAnswer": true },
+      { "text": "Vogons like to eat cows", "isAnswer": false },
+      {
+        "text": "Dentrassi made a TV show out of pranking Humans",
+        "isAnswer": false
+      }
+    ]
+  }
+]

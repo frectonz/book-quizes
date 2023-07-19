@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How does one survive an economic recession?",
+    "options": [
+      { "text": "Cut costs", "isAnswer": false },
+      { "text": "Diversify one's income", "isAnswer": false },
+      { "text": "Sleep", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What is the name of the old man?",
+    "options": [
+      { "text": "bartislartfast", "isAnswer": false },
+      { "text": "slartibartfast", "isAnswer": true },
+      { "text": "fastibartslart", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Which animals knew of the coming catastrophe?",
+    "options": [
+      { "text": "Dolphins", "isAnswer": true },
+      { "text": "Cats", "isAnswer": false },
+      { "text": "Dogs", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Deep Thought is the ____ greatest computer in the Universe of Time and Space.",
+    "options": [
+      { "text": "second", "isAnswer": true },
+      { "text": "third", "isAnswer": false },
+      { "text": "42nd", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Who were the people who tried to disrupt the great On-Turning?",
+    "options": [
+      { "text": "Doctors", "isAnswer": false },
+      { "text": "Scientists", "isAnswer": false },
+      { "text": "Philosophers", "isAnswer": true }
+    ]
+  }
+]

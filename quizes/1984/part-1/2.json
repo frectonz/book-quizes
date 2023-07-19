@@ -1,0 +1,59 @@
+[
+  {
+    "question": "You were supposed to call everyone '_____'",
+    "options": [
+      { "text": "Mate", "isAnswer": false },
+      { "text": "Comrade", "isAnswer": true },
+      { "text": "Soldier", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The parsons house and the whole building smelled like",
+    "options": [
+      { "text": "Burning hair", "isAnswer": false },
+      { "text": "Boiled cabbage", "isAnswer": true },
+      { "text": "Grilled meat", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The kids were imitating ____.",
+    "options": [
+      { "text": "Dancers", "isAnswer": false },
+      { "text": "Spys", "isAnswer": true },
+      { "text": "Soldiers", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Which is a child-hero?",
+    "options": [
+      {
+        "text": "a child that reports his parents to the eurasian police",
+        "isAnswer": false
+      },
+      {
+        "text": "a child that reports his parents to the thought police",
+        "isAnswer": true
+      },
+      { "text": "a child that kills a eurasian soldier", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What was the song that played on the tele",
+    "options": [
+      { "text": "Oceania, tis for thee", "isAnswer": true },
+      { "text": "Oh, Oceania", "isAnswer": false },
+      { "text": "Glory of Oceania", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "How did he protect the diary?",
+    "options": [
+      { "text": "he hid it under his mattress", "isAnswer": false },
+      { "text": "he hid it inside another book", "isAnswer": false },
+      {
+        "text": "he put dust on it so that he knows if the book has been picked up",
+        "isAnswer": true
+      }
+    ]
+  }
+]

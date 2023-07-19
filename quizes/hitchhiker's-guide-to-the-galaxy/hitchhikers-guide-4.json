@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How long will you last in space if you hold a lungful of air? (According to the book)",
+    "options": [
+      { "text": "10 seconds", "isAnswer": false },
+      { "text": "20 seconds", "isAnswer": false },
+      { "text": "30 seconds", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "The Heart of Gold was made on ____.",
+    "options": [
+      { "text": "Earth", "isAnswer": false },
+      { "text": "Damogran", "isAnswer": true },
+      { "text": "Vogsphere", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What did Ford turn into?",
+    "options": [
+      { "text": "A cat", "isAnswer": false },
+      { "text": "A dog", "isAnswer": false },
+      { "text": "A penguin", "isAnswer": true }
+    ]
+  }
+]

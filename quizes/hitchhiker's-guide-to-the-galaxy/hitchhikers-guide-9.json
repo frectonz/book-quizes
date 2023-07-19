@@ -1,0 +1,42 @@
+[
+  {
+    "question": "The computer that was designed by Deep Thought was meant to formulate",
+    "options": [
+      { "text": "The Ultimate Question", "isAnswer": true },
+      { "text": "The Ultimate Answer", "isAnswer": false },
+      { "text": "The Existence of Cats", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "In the catalog room, Ford, Trillian, and Zaphod were shown all of the following kinds of planets, except for one",
+    "options": [
+      { "text": "a gold planet", "isAnswer": false },
+      { "text": "a platinum planet", "isAnswer": false },
+      { "text": "a copper planet", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Who was the president of the galaxy before Zaphod?",
+    "options": [
+      { "text": "Ford Prefect", "isAnswer": false },
+      { "text": "Vranx Yooden", "isAnswer": false },
+      { "text": "Yooden Vranx", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Why did Zaphod want to be President?",
+    "options": [
+      { "text": "to steal magrathea", "isAnswer": false },
+      { "text": "to destroy earth", "isAnswer": false },
+      { "text": "to steal the heart of gold", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Slartibartfast said the following, \"I'd far rather be ____ than right anyday.\"",
+    "options": [
+      { "text": "dead", "isAnswer": false },
+      { "text": "happy", "isAnswer": true },
+      { "text": "wrong", "isAnswer": false }
+    ]
+  }
+]

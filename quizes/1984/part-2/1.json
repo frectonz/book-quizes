@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What was written on the note?",
+    "options": [
+      { "text": "Escape!", "isAnswer": false },
+      { "text": "Don't come back", "isAnswer": false },
+      { "text": "I love you", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What was the lecture Winston attended at the Community Center about?",
+    "options": [
+      { "text": "Ingsoc in relation to chess", "isAnswer": true },
+      { "text": "Ingsoc in relation to table tennis", "isAnswer": false },
+      { "text": "Ingsoc in relation to Pocker", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Where did winston and the girl first meet?",
+    "options": [
+      { "text": "At the Community Center", "isAnswer": false },
+      { "text": "At Victor Square", "isAnswer": true },
+      { "text": "At Victor Apartments", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "When did they decide to meet?",
+    "options": [
+      { "text": "Friday afternoon", "isAnswer": false },
+      { "text": "Saturday afternoon", "isAnswer": false },
+      { "text": "Sunday afternoon", "isAnswer": true }
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Preparations for ____ were in full swing.",
+    "options": [
+      { "text": "Hate Week", "isAnswer": true },
+      { "text": "Love Day", "isAnswer": false },
+      { "text": "Big Brother Day", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The New Poster showed the monstrous figure of a _____ soldier.",
+    "options": [
+      { "text": "Eastasian", "isAnswer": false },
+      { "text": "Eurasian", "isAnswer": true }
+    ]
+  }
+]

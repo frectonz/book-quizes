@@ -1,0 +1,50 @@
+[
+  {
+    "question": "Inside the ____ Dark Nebula, you would see no light.",
+    "options": [
+      { "text": "Horsehead", "isAnswer": true },
+      { "text": "Donkeyhead", "isAnswer": false },
+      { "text": "Chickenhead", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The home of the custom-made luxury planet building industry was the planet ____.",
+    "options": [
+      { "text": "Atlantia", "isAnswer": false },
+      { "text": "Valentia", "isAnswer": false },
+      { "text": "Magrathea", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What are the names of the twin suns?",
+    "options": [
+      { "text": "Koulianis and Gham", "isAnswer": false },
+      { "text": "Soulianis and Rham", "isAnswer": true },
+      { "text": "Poulianis and Nham", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What machine did Arthur use to get a liquid that was almost, but not quite, entirely unlike tea.",
+    "options": [
+      { "text": "A Stellar Coffee Machine", "isAnswer": false },
+      { "text": "The Nutri-Matic Machine", "isAnswer": true },
+      { "text": "The Capulus Drink Dispenser", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the name of the shipboard computer?",
+    "options": [
+      { "text": "Marvin", "isAnswer": false },
+      { "text": "Eddie", "isAnswer": true },
+      { "text": "Ben", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "How old was the tape recording?",
+    "options": [
+      { "text": "5 million years old", "isAnswer": true },
+      { "text": "10 million years old", "isAnswer": false },
+      { "text": "20 million years old", "isAnswer": false }
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "question": "What lies far out in the unchartered backwaters of the unfashionable end of the western spiral arm of the Galaxy?",
+    "options": [
+      { "text": "a blue sun", "isAnswer": false },
+      { "text": "a green sun", "isAnswer": false },
+      { "text": "a yellow sun", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "What is the most remarkable book ever to come out of Ursa Minor?",
+    "options": [
+      { "text": "Celestial Home Care Omnibus", "isAnswer": false },
+      { "text": "The Hitch Hiker's Guide to the Galaxy", "isAnswer": true },
+      { "text": "Fifty More Things to do in Zero Gravity", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "When did the terribly stupid catastrophe occur?",
+    "options": [
+      { "text": "Thursday", "isAnswer": true },
+      { "text": "Friday", "isAnswer": false },
+      { "text": "Saturday", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Who lives in the house the book begins with?",
+    "options": [
+      { "text": "Arthur Kent", "isAnswer": false },
+      { "text": "Arthur Bent", "isAnswer": false },
+      { "text": "Arthur Dent", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Mr. L Prosser is a direct male-line descendent of _____ ?",
+    "options": [
+      { "text": "Julius Ceaser", "isAnswer": false },
+      { "text": "Gangis Khan", "isAnswer": true },
+      { "text": "Alexander the Great", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is at Point E?",
+    "options": [
+      { "text": "McDonald's", "isAnswer": false },
+      { "text": "A Pub", "isAnswer": true },
+      { "text": "Starbucks", "isAnswer": false }
+    ]
+  }
+]

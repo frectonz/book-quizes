@@ -1,0 +1,59 @@
+[
+  {
+    "question": "Who is the leader of the Party in Oceania?",
+    "options": [
+      { "text": "Big Brother", "isAnswer": true },
+      { "text": "Emmanuel Goldstein", "isAnswer": false },
+      { "text": "Winston Smith", "isAnswer": false },
+      { "text": "O'Brien", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the purpose of the Two Minutes Hate in Oceania?",
+    "options": [
+      { "text": "To show love for the party", "isAnswer": false },
+      { "text": "To spread propoganda", "isAnswer": false },
+      {
+        "text": "To focus hatred towards enemies of the state",
+        "isAnswer": true
+      },
+      { "text": "To exercise", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the name of the political ideology promoted by the Party in Oceania?",
+    "options": [
+      { "text": "Capitalism", "isAnswer": false },
+      { "text": "Democracy", "isAnswer": false },
+      { "text": "Totalitarianism", "isAnswer": true },
+      { "text": "Socialism", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the term for the police force in Oceania that is responsible for detecting thoughtcrime?",
+    "options": [
+      { "text": "Thought Police", "isAnswer": true },
+      { "text": "Inner Party", "isAnswer": false },
+      { "text": "Proles", "isAnswer": false },
+      { "text": "Outer Party", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the name of the propaganda that is spread by the Party in Oceania?",
+    "options": [
+      { "text": "Newspeak", "isAnswer": false },
+      { "text": "Oldspeak", "isAnswer": false },
+      { "text": "Doublethink", "isAnswer": true },
+      { "text": "Doubleplusgood", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the term for the elimination of information and history that contradicts the Party's beliefs and goals?",
+    "options": [
+      { "text": "Memory Hole", "isAnswer": true },
+      { "text": "Memory Gap", "isAnswer": false },
+      { "text": "Memory Lane", "isAnswer": false },
+      { "text": "Memory Wall", "isAnswer": false }
+    ]
+  }
+]

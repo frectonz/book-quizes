@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How old was she?",
+    "options": [
+      { "text": "26", "isAnswer": true },
+      { "text": "18", "isAnswer": false },
+      { "text": "35", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "All the workers in pornosec were",
+    "options": [
+      { "text": "Men", "isAnswer": false },
+      { "text": "Women", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "\"_____ go home the same way as you went out,\" She said ...",
+    "options": [
+      { "text": "Always", "isAnswer": false },
+      { "text": "Never", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "GOODTHINKFUL is being",
+    "options": [
+      { "text": "incapable of thinking a \"bad thought\"", "isAnswer": true },
+      { "text": "helpful to fellow comrades", "isAnswer": false },
+      { "text": "a productive party member", "isAnswer": false }
+    ]
+  }
+]

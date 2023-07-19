@@ -1,0 +1,53 @@
+[
+  {
+    "question": "What happened to the Vl'hurg battle fleet?",
+    "options": [
+      { "text": "swallowed by a dog", "isAnswer": true },
+      { "text": "swallowed by a whale", "isAnswer": false },
+      {
+        "text": "swallowed by a giant squid from the horsehead nebula",
+        "isAnswer": false
+      }
+    ]
+  },
+  {
+    "question": "What are the names of the two mice?",
+    "options": [
+      { "text": "Scotty and Ben", "isAnswer": false },
+      { "text": "Benji and Frankie", "isAnswer": true },
+      { "text": "Ryan and George", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What was the question the mice came up with?",
+    "options": [
+      { "text": "How many books must a man read?", "isAnswer": false },
+      { "text": "How many roads must a man walk down?", "isAnswer": true },
+      { "text": "How many roads must a man build?", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The cops were ___ breathing life forms.",
+    "options": [
+      { "text": "Oxygen", "isAnswer": false },
+      { "text": "Methane", "isAnswer": true },
+      { "text": "Carbondioxide", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "R is a ____ measure.",
+    "options": [
+      { "text": "velocity", "isAnswer": true },
+      { "text": "time", "isAnswer": false },
+      { "text": "distance", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Which of the following characterizes the second phase of a galactic civilization?",
+    "options": [
+      { "text": "How can we eat?", "isAnswer": false },
+      { "text": "Why do we eat?", "isAnswer": true },
+      { "text": "Where shall we have lunch?", "isAnswer": false }
+    ]
+  }
+]

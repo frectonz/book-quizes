@@ -1,0 +1,49 @@
+[
+  {
+    "question": "How much does a suit of pyjamas cost?",
+    "options": [
+      { "text": "500 clothing coupons", "isAnswer": false },
+      { "text": "600 clothing coupons", "isAnswer": true },
+      { "text": "700 clothing coupons", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The Physical Jerks is a mandatory physical exercise conducted __________.",
+    "options": [
+      { "text": "through the telescreen", "isAnswer": true },
+      { "text": "in the townsquare", "isAnswer": false },
+      { "text": "at the park", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Airstrip One is ______.",
+    "options": [
+      { "text": "Berlin", "isAnswer": false },
+      { "text": "Moscow", "isAnswer": false },
+      { "text": "London", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Oceania is at war with _____.",
+    "options": [
+      { "text": "Eurasia", "isAnswer": true },
+      { "text": "Eastasia", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is the Newspeak word for \"Reality Control\"?",
+    "options": [
+      { "text": "DOUBLETHINK", "isAnswer": true },
+      { "text": "REALTHINK", "isAnswer": false },
+      { "text": "RETHINK", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What is INGSOC?",
+    "options": [
+      { "text": "English Socialism", "isAnswer": true },
+      { "text": "Engineered Socialism", "isAnswer": false },
+      { "text": "Engaged Socialism", "isAnswer": false }
+    ]
+  }
+]

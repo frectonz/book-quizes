@@ -1,0 +1,58 @@
+[
+  {
+    "question": "What did the two missiles turn into?",
+    "options": [
+      { "text": "A bowl of petunias and a whale", "isAnswer": true },
+      { "text": "A bowl of cereal and a cat", "isAnswer": false },
+      { "text": "A bowl of soup and a dolphin", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Human beings are the ____ most intelligent life forms.",
+    "options": [
+      { "text": "5th", "isAnswer": false },
+      { "text": "4th", "isAnswer": false },
+      { "text": "3rd", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Only by ____ could humans demonstrate their independence of computers.",
+    "options": [
+      { "text": "dancing", "isAnswer": false },
+      { "text": "counting", "isAnswer": true },
+      { "text": "singing", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "The part of Magrathea they landed on was ____.",
+    "options": [
+      { "text": "very cold", "isAnswer": true },
+      { "text": "very warm", "isAnswer": false },
+      { "text": "just right", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Marvin said the following about ____, \"loathe it or ignore it, you can't like it\"",
+    "options": [
+      { "text": "power", "isAnswer": false },
+      { "text": "society", "isAnswer": false },
+      { "text": "life", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Who stayed to guard the passageway?",
+    "options": [
+      { "text": "Arthur", "isAnswer": true },
+      { "text": "Ford", "isAnswer": false },
+      { "text": "Zaphod", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "What are the initials burnt into Zaphod's Brain?",
+    "options": [
+      { "text": "F.P", "isAnswer": false },
+      { "text": "Z.B", "isAnswer": true },
+      { "text": "B.Z", "isAnswer": false }
+    ]
+  }
+]

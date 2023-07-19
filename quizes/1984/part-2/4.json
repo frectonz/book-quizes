@@ -1,0 +1,32 @@
+[
+  {
+    "question": "The clock at Mr. Charrington's is",
+    "options": [
+      { "text": "A 12 hour clock", "isAnswer": true },
+      { "text": "A 24 hour clock", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "There were ____ entrances to the room at Mr. Cahrrington's.",
+    "options": [
+      { "text": "one", "isAnswer": false },
+      { "text": "two", "isAnswer": true },
+      { "text": "three", "isAnswer": false }
+    ]
+  },
+  {
+    "question": "Versificators are highly trained musicians who make songs for Oceanian parties.",
+    "options": [
+      { "text": "True", "isAnswer": false },
+      { "text": "False", "isAnswer": true }
+    ]
+  },
+  {
+    "question": "Winston has a fear of ____.",
+    "options": [
+      { "text": "Rats", "isAnswer": true },
+      { "text": "Dogs", "isAnswer": false },
+      { "text": "Cats", "isAnswer": false }
+    ]
+  }
+]
